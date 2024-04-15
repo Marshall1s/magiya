@@ -1,0 +1,26 @@
+@import url("/magiya/css/reset.css");
+@import url("/magiya/css/media.css");
+
+@font-face {
+    font-family: 'Soyuz Grotesk';
+    font-weight: bold;
+    src: URL('/magiya/fonts/Soyuz\ Grotesk\ Bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-weight: 400;
+    src: URL('/magiya/fonts/Монтсерат/Montserrat-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    src: URL('/magiya/fonts/Монтсерат/Montserrat-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-weight: 300;
+    src: URL('/magiya/fonts/Монтсерат/Montserrat-Thin.ttf') format('truetype');
+}

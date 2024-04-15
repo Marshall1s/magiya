@@ -1,0 +1,17 @@
+<svg width="63.000000" height="63.000000" viewBox="0 0 63 63" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient id="paint_linear_121_1317_0" x1="64.803978" y1="31.613667" x2="6.173531" y2="31.613667" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#03142A"/>
+			<stop offset="1.000000" stop-color="#FC6736"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_121_1318_0" x1="73.664101" y1="31.661537" x2="-0.183403" y2="31.661537" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#03142A"/>
+			<stop offset="1.000000" stop-color="#FC6736"/>
+		</linearGradient>
+	</defs>
+	<path id="Star 1" d="M29.61 8.91L24.18 21.51C24.02 21.9 23.66 22.16 23.24 22.2L9.57 23.47C8.57 23.56 8.17 24.8 8.92 25.46L19.24 34.52C19.55 34.8 19.69 35.22 19.6 35.63L16.58 49.02C16.36 50 17.41 50.77 18.28 50.26L30.08 43.25C30.44 43.03 30.89 43.03 31.25 43.25L43.05 50.26C43.91 50.77 44.97 50 44.74 49.02L41.73 35.63C41.64 35.22 41.77 34.8 42.09 34.52L52.4 25.46C53.15 24.8 52.75 23.56 51.75 23.47L38.08 22.2C37.67 22.16 37.31 21.9 37.14 21.51L31.71 8.91C31.31 7.99 30.01 7.99 29.61 8.91Z" fill="url(#paint_linear_121_1317_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<circle id="Ellipse 26" cx="30.666748" cy="31.428467" r="29.904762" stroke="url(#paint_linear_121_1318_0)" stroke-opacity="1.000000" stroke-width="3.047619"/>
+</svg>
