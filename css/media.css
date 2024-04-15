@@ -186,6 +186,7 @@ body {
 
     .adv-slider {
         overflow: hidden;
+        width: 100%;
     }
     .slider-inner {
         display: flex;
